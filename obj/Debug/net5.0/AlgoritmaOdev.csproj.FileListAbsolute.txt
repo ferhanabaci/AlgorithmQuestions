@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\AlgoritmaOdev.exe
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\AlgoritmaOdev.deps.json
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\AlgoritmaOdev.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\AlgoritmaOdev.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\AlgoritmaOdev.dll
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\ref\AlgoritmaOdev.dll
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\bin\Debug\net5.0\AlgoritmaOdev.pdb
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.csprojAssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.dll
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\ref\AlgoritmaOdev.dll
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.pdb
+C:\Users\ferhan\Desktop\Pratikler\AlgoritmaOdev\obj\Debug\net5.0\AlgoritmaOdev.genruntimeconfig.cache
